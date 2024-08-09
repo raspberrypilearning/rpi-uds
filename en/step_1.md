@@ -7,6 +7,16 @@
   </div><br>
 </html>
 
+--- collapse ---
+---
+title: No YouTube? Download the video!
+---
+
+You can download all the resources for this project, including the above video [by clicking here](https://projects.raspberrypi.org/en/projects/rpi-uds-go){:target="_blank"}. 
+
+
+--- /collapse ---
+
 Ultrasonic Distance Sensors (UDS) are devices that measure distance by using ultrasonic waves. UDS can be used to detect the distance to an object and trigger actions based on proximity.
 
 Ultrasonic sensors work by emitting ultrasonic waves from a transmitter. These waves travel through the air and reflect off objects, returning to the sensor's receiver. The sensor calculates the time it takes for the waves to return and uses this information to determine the distance to the object.
