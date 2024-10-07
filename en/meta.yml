@@ -1,0 +1,17 @@
+title: Ultrasonic Distance Sensor (UDS)
+hero_image: images/banner.png
+description: default-project-template description
+version: 4
+listed: false
+copyedit: false
+last_tested: "2022-05-19"
+steps:
+  - title: Ultrasonic Distance Sensors (UDS)
+  - title: Using an ultrasonic distance sensor
+    completion:
+    - engaged
+    completion:
+    - internal
+  - title: What can you do next?
+    completion:
+    - external
